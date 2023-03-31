@@ -1,0 +1,7 @@
+export DOTFILES_PATH="/home/carlos-agudo/.dotfiles"
+export DOTLY_PATH="$DOTFILES_PATH/modules/dotly"
+export DOTLY_THEME="codely"
+export ZIM_HOME="$DOTFILES_PATH/shell/zsh/.zim"
+export MY_EMAIL="carlos.agudo@housfy.com"
+export MY_PHONE="+34675967469"
+export HOUSFY_CRYPTER_PASSWORD="welcometohousfydevelopers!"
